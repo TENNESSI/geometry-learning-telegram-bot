@@ -107,7 +107,7 @@ source .venv/bin/activate
 Установите зависимости:
 
 ```bash
-pip install aiogram python-dotenv
+pip install -r requirements.txt
 ```
 
 Запустите бота:
